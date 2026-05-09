@@ -3,7 +3,7 @@
 ##**3.1. MediaPipe Setup**
 """
 
-# protobuf و tensorflow
+# protobuf & tensorflow
 !pip install protobuf==4.25.3
 !pip install mediapipe==0.10.14
 !pip install tensorflow==2.16.1
